@@ -1,5 +1,4 @@
 
-# README for File Transfer Project
 
 ## Project Overview
 
